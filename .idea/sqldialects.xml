@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/day03-sql-homework2/src/main/java/sql/黄日邦.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/1. DQL-数据准备.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/2. DQL-基础查询.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/3. DQL-条件查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/4. DQL-分组查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/5. DQL-排序查询.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/springboot-ioc-homework/src/main/java/com/itheima/sql/6. DQL-分页查询.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/tlias-web-management/src/main/resources/sql/db_nnxy1215.sql" dialect="MySQL" />
+    <file url="file://D:/黑马程序员资料/03. 后端Web基础(数据库)/资料/06. DQL语句数据准备/1. DQL-数据准备.sql" dialect="MySQL" />
+  </component>
+</project>

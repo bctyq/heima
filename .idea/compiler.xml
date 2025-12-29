@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day02-02-web-springboot" />
+        <module name="tlias-web-management" />
+        <module name="day01-01-maven2" />
+        <module name="day03-sql-homework2" />
+        <module name="springboot-ioc-homework" />
+        <module name="day02-01-web-springboot" />
+        <module name="day12.21-zixi-homework" />
+        <module name="day03-03-zixi-homework" />
+        <module name="day03-01-web-springboot-three-layer" />
+        <module name="day02-02-web-homework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="day-12.21-zixi-homework" target="17" />
+      <module name="day02-web-spring" target="17" />
+      <module name="dya02-01-web-spring" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="day02-01-web-springboot" options="-parameters" />
+      <module name="day02-02-web-homework" options="-parameters" />
+      <module name="day02-02-web-springboot" options="-parameters" />
+      <module name="day02-web-spring" options="-parameters" />
+      <module name="day03-01-web-springboot-three-layer" options="-parameters" />
+      <module name="day03-03-zixi-homework" options="-parameters" />
+      <module name="day12.21-zixi-homework" options="-parameters" />
+      <module name="springboot-ioc-homework" options="-parameters" />
+      <module name="tlias-web-management" options="-parameters" />
+    </option>
+  </component>
+</project>
